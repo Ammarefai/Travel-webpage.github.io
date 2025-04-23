@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Spin-off of "Project: Travel webpage"</title>
         <style>
             body { background-color:rgb(17, 229, 240);}
             #Capital { color:rgb(240, 9, 75);}
